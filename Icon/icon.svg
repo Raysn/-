@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="E:\Programming\VisualC#\EraNameConverter3\Icon\icon256.png"
+   inkscape:export-xdpi="46.080002"
+   inkscape:export-ydpi="46.080002">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3832"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-145.90576"
+     inkscape:cy="144.33524"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="716"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="tile_heisei"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-552.36217)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2985"
+       width="246.43893"
+       height="233.16914"
+       x="230.35196"
+       y="784.14276" />
+    <text
+       xml:space="preserve"
+       style="font-size:60px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'M+ 2p thin';-inkscape-font-specification:'M+ 2p thin'"
+       x="-305.71429"
+       y="405.71429"
+       id="text3755"
+       sodipodi:linespacing="125%"
+       transform="translate(0,552.36217)"><tspan
+         sodipodi:role="line"
+         id="tspan3757"
+         x="-305.71429"
+         y="405.71429"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-family:'M+ 2p light';-inkscape-font-specification:'M+ 2p light, Ultra-Light'" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:146.83137512px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'M+ 2p thin';-inkscape-font-specification:'M+ 2p thin'"
+       x="352.57919"
+       y="691.62262"
+       id="text3759"
+       sodipodi:linespacing="125%"
+       transform="scale(0.70710682,1.4142135)"><tspan
+         sodipodi:role="line"
+         id="tspan3761"
+         x="352.57919"
+         y="691.62262"
+         style="font-size:147.07821655px">平成</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:207.65090942px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'M+ 2p thin';-inkscape-font-specification:'M+ 2p thin'"
+       x="-558.52051"
+       y="1056.8798"
+       id="text3759-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3761-8"
+         x="-558.52051"
+         y="1056.8798"
+         style="font-size:208px">平成</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3785"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:'M+ 2p thin';font-style:normal;font-weight:normal;font-size:60px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'M+ 2p thin';font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion3787"><rect
+           id="rect3789"
+           width="487.14285"
+           height="442.85715"
+           x="-78.571426"
+           y="-71.428574" /></flowRegion><flowPara
+         id="flowPara3791"></flowPara></flowRoot>    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2985-8"
+       width="246.43893"
+       height="233.16914"
+       x="22.494808"
+       y="574.349" />
+    <text
+       xml:space="preserve"
+       style="font-size:146.83137512px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'M+ 2p thin';-inkscape-font-specification:'M+ 2p thin'"
+       x="58.182709"
+       y="539.37781"
+       id="text3759-9"
+       sodipodi:linespacing="125%"
+       transform="scale(0.70710682,1.4142135)"><tspan
+         sodipodi:role="line"
+         id="tspan3761-2"
+         x="58.182709"
+         y="539.37781"
+         style="font-size:147.07821655px">西暦</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="character_heisei" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="tile_seireki" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="character_seireki" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="arrow">
+    <g
+       id="g4707"
+       transform="translate(-781.85807,84.852814)">
+      <path
+         id="rect4638"
+         d="m 429.28125,-317.5 0,252.15625 L 555.375,-191.4375 429.28125,-317.5 z M 418.25,-57.8125 l 1.75,1.75 1.75,-1.75 -3.5,0 z"
+         style="fill:#fec400;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         y="-244.38458"
+         x="344.16318"
+         height="115.20665"
+         width="105.71429"
+         id="rect4659"
+         style="fill:#fec400;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       style="fill:#fec400;fill-opacity:1;stroke:none"
+       d="m 306.15739,213.16827 -27.30362,18.54097 -27.69548,-40.78462 -43.009,29.20598 27.69548,40.78462 -23.83816,16.1877 88.10591,28.44204 6.04487,-92.37669 z m -100.55184,60.55897 -0.0841,1.28217 1.22278,0.39475 -1.13873,-1.6769 z"
+       id="rect4638-3"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
